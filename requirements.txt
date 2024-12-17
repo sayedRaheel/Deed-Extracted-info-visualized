@@ -1,0 +1,7 @@
+opencv-python
+numpy
+Pillow
+python-doctr[torch]
+pdf2image
+openai
+streamlit
