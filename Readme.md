@@ -2,6 +2,13 @@
 
 Extract and visualize key information from property deeds using OCR, GPT-4, and computer vision.
 
+
+## Visualized info extracted from deed
+![Recording and Endorsement Cover Page](images/annotated_page_1.png)
+![Continuation Page](images/annotated_page_2.png)
+![Supporting Document Cover Page](images/annotated_page_3.png)
+![Summary Visualization](images/summary.png)
+
 ## Files
 
 - `main.py` - Main script for OCR and GPT-4 information extraction
