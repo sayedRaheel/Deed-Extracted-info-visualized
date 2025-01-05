@@ -1,6 +1,8 @@
 # Deed OCR Analysis & Visualization
 
-Extract and visualize key information from property deeds using OCR, GPT-4, and computer vision.mmmmmm
+Extract and visualize key information from property deeds using OCR, GPT-4, and computer vision.
+
+
 
 
 ## Visualized info extracted from deed
