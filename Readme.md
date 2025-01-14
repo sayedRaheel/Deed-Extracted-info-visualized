@@ -2,7 +2,8 @@
 
 Extract and visualize key information from US property deeds using OCR, GPT-4, and computer vision.
 Next appwill be using claude.ai for extraction
-Using DocTR Model
+Using DocTR Model, good tool to extarct and visualize the information from the property deeds
+
 
 
 ## Visualized info extracted from deed
